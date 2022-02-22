@@ -14,10 +14,10 @@ I am a computer scientist at the University of Oklahoma. I love to explore new p
   
   #### Github Statistics
   <a href="https://dylanzeml.in/api/v1/github/statistics?theme=light#gh-light-mode-only">
-    <img src="https://dylanzeml.in/api/v1/github/playing?theme=light" alt="Spotify Status" width="540" height="64">
+    <img src="https://dylanzeml.in/api/v1/github/statistics?theme=light" alt="Spotify Status" width="540" height="64">
   </a>
   <a href="https://dylanzeml.in/api/v1/github/statistics?theme=dark#gh-dark-mode-only">
-    <img src="https://dylanzeml.in/api/v1/github/playing?theme=dark" alt="Spotify Status" width="540" height="64">
+    <img src="https://dylanzeml.in/api/v1/github/statistics?theme=dark" alt="Spotify Status" width="540" height="64">
   </a>
 
 </p>
